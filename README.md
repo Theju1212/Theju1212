@@ -33,6 +33,16 @@ I enjoy turning real-life problems into tech solutions and explaining them simpl
 
 ---
 
+## 📊 GitHub Activity
+
+- Consistent learner  
+- Focused on practical projects  
+- Improving code quality and system design  
+
+![](https://nirzak-streak-stats.vercel.app/?user=Theju1212&theme=dark&hide_border=false)
+
+---
+
 ## 🌐 Connect With Me
 
 📫 **Gmail:**  
@@ -127,14 +137,6 @@ An AI-powered web application to assist small businesses with queries.
 - Real-world business use case  
 
 🔗 GitHub: https://github.com/Theju1212/Vyapar_ai  
-
----
-
-## 📊 GitHub Activity
-
-- Consistent learner  
-- Focused on practical projects  
-- Improving code quality and system design  
 
 ---
 
